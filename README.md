@@ -4,6 +4,8 @@ An intelligent and automated data quality analysis tool built using Python, Stre
 
 This dashboard helps users upload CSV or Excel datasets, automatically detect data quality issues, visualize problems, generate AI-driven insights, and download cleaned datasets and reports.
 
+[Live app](https://aidataqualitydashboard-62yn2hyvszzvqotefymvet.streamlit.app/)
+
 ---
 
 # Features
