@@ -87,13 +87,13 @@ Fallback local insights are generated when AI API is unavailable.
 
 # Future Enhancements
 
-PDF report generation
-Automatic data cleaning actions
-Chat with dataset feature
-Data drift detection
-Multi-file batch processing
-Power BI integration
-User authentication
-Cloud deployment
+- PDF report generation
+- Automatic data cleaning actions
+- Chat with dataset feature
+- Data drift detection
+- Multi-file batch processing
+- Power BI integration
+- User authentication
+- Cloud deployment
 
 ---
